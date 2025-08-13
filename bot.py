@@ -4,7 +4,7 @@ import sqlite3
 from datetime import datetime
 
 bot = telebot.TeleBot("7960576829:AAG9z2aP3OXd6i5Dpj8pfuqFa-i-NhiEeL0") #توكنك
-admin = [1965941065, 5842633286, 987654321]  # حط أي عدد من الايديات هنا
+admin = 1965941065 #ايديك
 
 
 def init_db():
